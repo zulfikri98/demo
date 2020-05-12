@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "name": "PhoneNo" },
+    { "id": 2, "name": "PhoneNo" },
+    { "id": 3, "name": "PhoneNo" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "name": "Bah", "PhoneNo": 1 },
+    { "id": 2, "name": "Ali", "PhoneNo": 2 }
   ],
   "profile": {
     "name": "typicode"
